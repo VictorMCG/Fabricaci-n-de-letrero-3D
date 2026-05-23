@@ -86,6 +86,13 @@ Después de un rato trabajando en el logo, este es el resultado final. Como pued
 
 Algo adicional que hice fue eliminar el fondo para que ciertas partes del logo tuvieran relieve y generaran un efecto más interesante visualmente. También pude haber eliminado la parte central del diseño, pero no se me ocurrió hasta después de la fabricación. Probablemente el resultado habría quedado aún mejor y con un acabado más limpio.
 
+
+<img width="1143" height="1085" alt="image" src="https://github.com/user-attachments/assets/29dddbf7-fee1-4e1d-a9fb-261d758c03ef" />
+
+
+
+
+
 Procedemos a decargar el archivo para trabajarlo en bambu studio 
 
 ## 3. Corrección de colores en Bambu Studio
