@@ -16,6 +16,7 @@ Este proyecto documenta mi proceso para diseñar y fabricar letreros 3D utilizan
 # Proceso de fabricación
 
 ## 1. Preparación del logo
+Podemos generar facilmente un logo con ayuda de chatgpt, busca que sea lo más simple posible, ya que muchos degradados pueden complicar la elección de colores y perder la<img width="1536" height="1024" alt="Logos ejemplos" src="https://github.com/user-attachments/assets/8ce02932-835e-4364-939e-7ef123a3c40a" />
 
 - Limpieza del archivo
 - Conversión a vectores
