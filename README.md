@@ -145,7 +145,8 @@ Es importante que todas las piezas se escalen, para que tengan el mismo tamaño
 <img width="900" height="1600" alt="WhatsApp Image 2026-05-23 at 3 39 35 PM" src="https://github.com/user-attachments/assets/781f5536-4be7-4ce9-b0bb-1c6fd4c180d3" />
 Ese es el resultado después de la impresión, para hacer la unión de las piezas pueden utilizar cianocrilato o colaloca si viven en México es lo mismo, deben tener mucho cuidado de no manchar las piezas porque pueden quedar con un tono blanco en el diseño 
 
-<img width="900" height="1600" alt="WhatsApp Image 2026-05-23 at 12 36 22 PM" src="https://github.com/user-attachments/assets/73df3af8-8071-4da4-bc89-4ea9d3eb1a6b" />
+<img width="615" height="735" alt="image" src="https://github.com/user-attachments/assets/91be9ac8-13ee-4418-969c-e996bafc0148" />
+
 
 
 
