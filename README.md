@@ -10,8 +10,11 @@ Este proyecto documenta mi proceso para diseñar y fabricar letreros 3D utilizan
 - AMS (Automatic Material System)
 - Bambu Studio
 - Filamentos PLA
+# Link's
+-[MakerLab - Image to Keychain](https://makerworld.com/es/makerlab/imageToKeychain?from=makerlab)
+-[México Makers - Image to Keychain](https://www.mexicomakers.com.mx/products/pla-matte-rosa-axolote?_pos=1&_sid=0fe0920f0&_ss=r)
+-[ImageColorPicker.com - Image to Keychain](https://imagecolorpicker.com/es#google_vignette)
 
----
 
 # Proceso de fabricación
 
@@ -89,13 +92,17 @@ Algo adicional que hice fue eliminar el fondo para que ciertas partes del logo t
 
 <img width="1143" height="1085" alt="image" src="https://github.com/user-attachments/assets/29dddbf7-fee1-4e1d-a9fb-261d758c03ef" />
 
-
-
-
-
 Procedemos a decargar el archivo para trabajarlo en bambu studio 
 
+
+<img width="879" height="729" alt="image" src="https://github.com/user-attachments/assets/8dd9efd9-e2a9-4344-ae90-5bf4b4646ff4" />
+
+
 ## 3. Corrección de colores en Bambu Studio
+Vamos a abrir un nuevo proyecto en Bambu Studio y procederemos a cargar el archivo que acabamos de generar. Una vez importado, podremos ajustar la escala, posición y configuración de colores para preparar el modelo antes de la impresión.
+
+
+
 
 - Ajuste de perfiles
 - Corrección de capas
