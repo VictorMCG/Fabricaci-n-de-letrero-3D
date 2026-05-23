@@ -10,7 +10,9 @@ Este proyecto documenta mi proceso para diseñar y fabricar letreros 3D utilizan
 - AMS (Automatic Material System)
 - Bambu Studio
 - Filamentos PLA
+  
 # Link's
+
 -[MakerLab - Image to Keychain](https://makerworld.com/es/makerlab/imageToKeychain?from=makerlab)
 -[México Makers - Image to Keychain](https://www.mexicomakers.com.mx/products/pla-matte-rosa-axolote?_pos=1&_sid=0fe0920f0&_ss=r)
 -[ImageColorPicker.com - Image to Keychain](https://imagecolorpicker.com/es#google_vignette)
@@ -100,59 +102,69 @@ Procedemos a decargar el archivo para trabajarlo en bambu studio
 
 ## 3. Corrección de colores en Bambu Studio
 Vamos a abrir un nuevo proyecto en Bambu Studio y procederemos a cargar el archivo que acabamos de generar. Una vez importado, podremos ajustar la escala, posición y configuración de colores para preparar el modelo antes de la impresión.
+Yo cometí el error de agregar el color verde cuando mi impresora solamente acepta 4 filamentos por lo que procedo a colorear las zonas que quedaron mal ya sea porque tenian algun error de colores
 
+Antes
 
+<img width="1341" height="1208" alt="image" src="https://github.com/user-attachments/assets/0bc9e6db-19ec-46a6-b3d0-9fbebdaa882f" />
 
+Después 
 
-- Ajuste de perfiles
-- Corrección de capas
-- Verificación del AMS
+<img width="1400" height="1066" alt="image" src="https://github.com/user-attachments/assets/becd0255-9312-4af0-9b9c-9426b8df89f6" />
 
-![Bambu Studio](photos/bambu-studio.jpg)
+Agregué un cilindro pequeño de fondo, lo que permitirá que las figuras tengan un mejor soporte y, al mismo tiempo, dará ese acabado en relieve que hace que el logo se vea más tridimensional y con un efecto 3D más atractivo.
 
----
+Para evitar que la figura se mueva o se desacomode, es importante seleccionar ambos objetos y unirlos en una sola pieza. Esto también facilita ajustar la escala del logo de manera más cómoda y precisa durante el proceso de edición.
+
 
 ## 4. Corte y preparación
 
-- Ajuste de dimensiones
-- Optimización del modelo
-- Configuración de impresión
+Con la herramienta de cortar podemos dividir la figura en varias partes, lo que nos permite fabricar el logo en un tamaño más grande sin exceder el área de impresión de la impresora.
 
-![Corte](photos/corte.jpg)
+En mi caso, dividiré el modelo en 4 partes para facilitar tanto la impresión como el ensamblado posterior.
 
----
+-Primer corte
+
+<img width="882" height="890" alt="image" src="https://github.com/user-attachments/assets/8aac0e15-4943-4908-bad8-94470439bb59" />
+
+-Segundo corte 
+
+<img width="1003" height="864" alt="image" src="https://github.com/user-attachments/assets/09068a2a-707a-4662-8088-4673de434cd0" />
+
 
 ## 5. Escalado
+Hay que agregar 3 camas más para poder colocar cada parte del logo por separado. Con esto lograremos realizar un laminado completo del proyecto, lo que nos ayudará a calcular de manera más precisa tanto los costos de impresión como el tiempo de procesamiento.
 
-- Ajuste de tamaño
-- Verificación de proporciones
-- Pruebas de impresión
+También es importante configurar correctamente los parámetros del material, especialmente el costo del filamento que ustedes manejan, ya que esto permitirá obtener estimaciones más realistas del precio final de fabricación.
+<img width="1122" height="1095" alt="image" src="https://github.com/user-attachments/assets/f280b6e9-ed57-4fc6-aa45-37792560d33a" />
 
-![Escalado](photos/escalado.jpg)
+Es importante que todas las piezas se escalen, para que tengan el mismo tamaño 
 
----
 
 ## 6. Armado final
+<img width="900" height="1600" alt="WhatsApp Image 2026-05-23 at 3 39 35 PM" src="https://github.com/user-attachments/assets/781f5536-4be7-4ce9-b0bb-1c6fd4c180d3" />
+Ese es el resultado después de la impresión, para hacer la unión de las piezas pueden utilizar cianocrilato o colaloca si viven en México es lo mismo, deben tener mucho cuidado de no manchar las piezas porque pueden quedar con un tono blanco en el diseño 
 
-- Unión de piezas
-- Limpieza
-- Resultado final
+<img width="900" height="1600" alt="WhatsApp Image 2026-05-23 at 12 36 22 PM" src="https://github.com/user-attachments/assets/73df3af8-8071-4da4-bc89-4ea9d3eb1a6b" />
 
-![Resultado final](photos/final.jpg)
 
----
 
 # Notas
 
-Durante el proceso iré agregando:
-- Fotos
-- Errores comunes
-- Configuraciones
-- Tiempos de impresión
-- Costos aproximados
+Los costos de este trabajo dependerán de varios factores, como el material utilizado, la complejidad del logotipo, la mano de obra requerida y el tiempo total de impresión. En este caso, la impresión tomó aproximadamente 24 horas, por lo que es importante considerar ese tiempo dentro del cálculo final del proyecto.
 
----
+Para este trabajo, el costo aproximado fue de 200 pesos mexicanos, considerando únicamente materiales y consumo eléctrico. Esto equivale aproximadamente a 17.5 dólares, tomando como referencia un tipo de cambio de 1 USD = 17.33 MXN.
+
+Sin embargo, aún falta integrar otros gastos importantes, como:
+
+Mano de obra, que en un trabajo de este tipo no debería ser menor a 50 pesos.
+Incremento o margen de ganancia del negocio, por ejemplo un 30%, para permitir el crecimiento y mantenimiento del emprendimiento.
+Impuestos, IVA y otros gastos operativos.
+
+Tomar en cuenta todos estos factores permitirá establecer un precio más realista y rentable para la fabricación del logotipo.
+<img width="1169" height="934" alt="image" src="https://github.com/user-attachments/assets/bbf0e42a-1655-4f35-becd-b2255b13285b" />
+
 
 # Estado del proyecto
 
-🚧 En desarrollo
+Concluido 
